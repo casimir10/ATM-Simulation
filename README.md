@@ -44,9 +44,10 @@ Transaction Ticket: Manages the type of a transaction, its date, and the total c
 transaction. Also tracks the term of CD accounts
 
 
-This was an exercise in utilizing a modern Java programming approach to completing an ATM. Splitting
-functions into seperate classes which rely on one another, while using a interface for methods necessary
-for multiple classes
+This was an exercise in utilizing a modern Java programming approach to completing an ATM.
+
+The following techniques were utilized:
+
 - Seperating functions into repsective objects which communicate
 - Using an interface for shared methods
 - Taking advantage of immutable/final variables and abstraction
